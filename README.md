@@ -8,7 +8,7 @@ El diagrama de flujo que tenemos en nuestro codigo es el siguiente:
 
 ![diagrama de flujo terminar el juego](C:/jzazooro/entrega/DIAGRAMA-DE-FLUJO-TERMINAR-EL-JUEGO.jpg)
 
-from funcion import juego
+'''from funcion import juego
 nivel=int(input("seleccione el nivel en el que desea jugar del 1 al 4: "))
 while nivel<1 or nivel>4:
     print("el nivel seleccionado no existe")
