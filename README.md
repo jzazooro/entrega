@@ -6,7 +6,7 @@ https://github.com/jzazooro/entrega.git
 Hemos terminado de resolver el juego de adivinar el numero aleatorio con funciones, incluyendole mas caracteristicas
 El diagrama de flujo que tenemos en nuestro codigo es el siguiente: 
 
-![diagrama de flujo terminar el juego](https://C:/jzazooro/entrega/DIAGRAMA-DE-FLUJO-TERMINAR-EL-JUEGO.jpg)
+![diagrama de flujo terminar el juego](https://C:/jzazooro/entrega/DIAGRAMADEFLUJOTERMINARELJUEGO.jpg)
 
 ```from funcion import juego
 nivel=int(input("seleccione el nivel en el que desea jugar del 1 al 4: "))
